@@ -1,0 +1,5 @@
+isim=Name
+ilkgiris=1
+lisansdurum=1
+lisans=12345678
+
